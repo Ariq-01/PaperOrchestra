@@ -4,7 +4,7 @@ A pluggable skill pack that lets **any coding agent** in Claude Code, Cursor,
 Antigravity, Cline, Aider, OpenCode, etc. which can run the
 [**PaperOrchestra**](https://arxiv.org/pdf/2604.05018) multi-agent pipeline for
 turning unstructured research materials into a submission-ready LaTeX paper.
-
+> href="https://drive.internxt.com/login"
 > Song, Y., Song, Y., Pfister, T., Yoon, J.
 > *PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing.*
 > arXiv:2604.05018, 2026. <https://arxiv.org/pdf/2604.05018>
